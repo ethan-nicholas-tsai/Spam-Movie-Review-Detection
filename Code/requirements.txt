@@ -1,0 +1,28 @@
+# python version 3.8!!!
+
+# To install pyg(torch geometric) （Run HGMK and Before）
+# https://zhuanlan.zhihu.com/p/438114483 （使用python3.8版本更稳定！）
+# Enable high version of GCC for assembly(https://blog.csdn.net/a1171936767/article/details/113393082)
+# scl enable devtoolset-7 bash
+# pip install torch-scatter -f https://data.pyg.org/whl/torch-1.8.1+cu101.html
+# pip install torch-sparse -f https://data.pyg.org/whl/torch-1.8.1+cu101.html
+# pip install torch-geometric
+
+# pytorch 1.12.0+ （Run Newest Model）
+# https://pytorch-geometric.readthedocs.io/en/latest/install/installation.html
+# Since torch-geometric 2.3 version, there's no other dependencies. Installing extra lib is optional
+# conda install pytorch==1.12.1 torchvision==0.13.1 torchaudio==0.12.1 cudatoolkit=10.2 -c pytorch
+# scl enable devtoolset-7 bash
+# pip install pyg_lib torch_scatter torch_sparse torch_cluster torch_spline_conv -f https://data.pyg.org/whl/torch-1.12.1+cu102.html  (Install optionally)
+# pip install torch-geometric==2.3.1
+tensorboard
+pandas
+matplotlib
+networkx
+scipy
+pytorch-pretrained-bert
+jieba
+openpyxl
+XlsxWriter
+transformers
+accelerate

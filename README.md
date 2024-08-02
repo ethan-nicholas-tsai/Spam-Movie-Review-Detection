@@ -1,10 +1,10 @@
 # Spam Movie Review Detection
 
-This is the official repository of paper "Detecting Spam Movie Review under Coordinated Attack with Multi-View Explicit and Implicit Relations Semantics Fusion".
+This is the official repository of paper "Detecting Spam Movie Review under Coordinated Attack with Multi-View Explicit and Implicit Relations Semantics Fusion", which is accepted by the journal *IEEE Transactions on Information Forensics and Security (TIFS, 2024)* and to be published soon.
 
 ## Code
 
-**We will update the code in this repo once our paper get accepted.**
+See folder `Code/`. *Note that the original version of code is runned on our self-developed deep-learning experimental platform.* Contact Yicheng at cyc21csri@stu.scu.edu.cn for any questions.
 
 ## Dataset
 
