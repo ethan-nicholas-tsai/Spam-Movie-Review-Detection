@@ -1,6 +1,6 @@
 # Spam Movie Review Detection
 
-This is the official repository of paper "Detecting Spam Movie Review under Coordinated Attack with Multi-View Explicit and Implicit Relations Semantics Fusion", which is accepted by the journal *IEEE Transactions on Information Forensics and Security (TIFS, 2024)* and to be published soon.
+This is the official repository of paper "Detecting Spam Movie Review under Coordinated Attack with Multi-View Explicit and Implicit Relations Semantics Fusion", which is published in the journal *IEEE Transactions on Information Forensics and Security (TIFS, 2024)*.
 
 ## Code
 
@@ -98,3 +98,20 @@ Please apply for access by contacting Yicheng at cyc.ralion@gmail.com with your 
 | Useful  Number  | Number of users who consider the review to be useful  | 8                                                                                                                                                                                |
 | Useless  Number | Number of users who consider the review to be useless | 2                                                                                                                                                                                 |
 | Comment  Number | Number of users who commented under the review        | 3 |
+
+
+## Cite (BibTex)
+
+Please cite the following paper, if you find our work useful in your research:
+
+```
+@ARTICLE{cai2024detecting,
+  author={Cai, Yicheng and Wang, Haizhou and Cao, Hao and Wang, Wenxian and Zhang, Lei and Chen, Xingshu},
+  journal={IEEE Transactions on Information Forensics and Security}, 
+  title={Detecting Spam Movie Review Under Coordinated Attack With Multi-View Explicit and Implicit Relations Semantics Fusion}, 
+  year={2024},
+  volume={19},
+  number={},
+  pages={7588-7603},
+  doi={10.1109/TIFS.2024.3441947}}
+```
