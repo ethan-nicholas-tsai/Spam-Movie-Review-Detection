@@ -17,7 +17,7 @@ The dataset used in this paper includes two parts:
 
 The dataset is available at [Google Drive](https://drive.google.com/drive/folders/1dbw3pl4qy9W6kzXA2upeTba5ObLUwzmb?usp=drive_link).
 
-Please apply for access by contacting Yicheng at cyc21csri@stu.scu.edu.cn with your institutional email address and clearly state your institution, your research advisor (if any), and your use case of our dataset.
+Please apply for access by contacting Yicheng at cyc.ralion@gmail.com with your institutional email address and clearly state your institution, your research advisor (if any), and your use case of our dataset.
 
 ### Data Format and Sample
 
