@@ -4,7 +4,7 @@ This is the official repository of paper "Detecting Spam Movie Review under Coor
 
 ## Code
 
-See folder `Code/`. *Note that the original version of code is runned on our self-developed deep-learning experimental platform.* Contact Yicheng at cyc21csri@stu.scu.edu.cn for any questions.
+See folder `Code/`. *Note that the original version of code is runned on our self-developed deep-learning experimental platform.* Contact Yicheng at cyc.ralion@gmail.com for any questions.
 
 ## Dataset
 
